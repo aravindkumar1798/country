@@ -1,0 +1,4 @@
+pick a file from one branch and merging 
+into a another branch
+git cherry-pick commit id
+iam learning about this command
